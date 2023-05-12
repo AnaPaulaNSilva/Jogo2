@@ -1,0 +1,6 @@
+
+public class Fase {
+	public void carregar() {
+		System.out.println("Carregando o jogo...");
+	}
+}
